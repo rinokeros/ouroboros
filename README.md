@@ -25,7 +25,7 @@ Ouroboros will monitor (all or specified) running docker containers and update t
 
 ## Getting Started
 
-More detailed usage and configuration can be found on [the wiki](https://github.com/pyouroboros/ouroboros/wiki).
+More detailed usage and configuration can be found on [the wiki](https://wiki.cajun.pro/books/ouroboros).
 
 ### Docker
 
@@ -60,7 +60,7 @@ $ ouroboros --interval 300 --log-level debug
 > This can be useful if you would like to create a `systemd` service or similar daemon that doesn't run in a container
 
 ## Examples
-Per-command and scenario examples can be found in the [wiki](https://github.com/pyouroboros/ouroboros/wiki/Usage)
+Per-command and scenario examples can be found in the [wiki](https://wiki.cajun.pro/books/ouroboros/page/usage)
 
 ## Contributing
 
